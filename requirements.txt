@@ -1,0 +1,8 @@
+scikit-learn==1.0.2
+xgboost==1.7.3
+lightgbm==3.3.5
+tsfresh==0.20.0
+tqdm==4.64.0
+h5py==3.6.0
+numpy==1.21.5
+scipy==1.7.3
